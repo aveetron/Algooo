@@ -12,3 +12,6 @@ def bubble_sort(number_list):
 if __name__ == "__main__":
     number_list = [100,3,55,-10,67,433,20,765,1000,46,99]
     bubble_sort(number_list)
+
+
+#time complexity  - O(n^2)
